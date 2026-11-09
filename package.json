@@ -1,0 +1,12 @@
+{
+  "name": "knip-dynamic-import-namespace-arg",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "knip": "knip"
+  },
+  "devDependencies": {
+    "knip": "6.44.2"
+  }
+}
